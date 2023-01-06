@@ -1,0 +1,21 @@
+{
+  "name": "shard-component",
+  "version": "1.0.0",
+  "description": "杭州图景科技技术有限公司",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "shard"
+  ],
+  "author": "yyz",
+  "license": "MIT",
+  "files": [
+    "src"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/yuyuze/shard.git"
+  }
+}
